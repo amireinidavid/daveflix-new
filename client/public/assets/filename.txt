@@ -1,0 +1,3 @@
+yarn add @headlessui/react @heroicons/react @tailwindcss/line-clamp aos rc-drawer 
+react-dropzone react-icons react-router-dom react-share reacr-spinners
+react-toastify swiper
